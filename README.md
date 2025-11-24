@@ -17,3 +17,31 @@ that's a draft for testing how things render before adding to the actual portfol
 
 
 ---
+
+
+
+[![fig](assets/fig-fig.png)](#)
+
+[![figm](assets/fig.png)](#)
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
