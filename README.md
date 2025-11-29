@@ -15,7 +15,7 @@ that's a draft for testing how things render before adding to the actual portfol
 [![Medium](https://skills.syvixor.com/api/icons?perline=15&i=medium)](#)
 
 
-
+https://skills.syvixor.com/api/icons?perline=15&i=kestra,dlthub,googleslides
 ---
 
 
