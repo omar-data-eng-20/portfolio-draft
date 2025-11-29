@@ -20,6 +20,7 @@ that's a draft for testing how things render before adding to the actual portfol
 
 [![Microsoft 365](https://skills.syvixor.com/api/icons?perline=15&i=microsoft365copilot)]([#](#))
 
+[![Google BigQuery](https://skills.syvixor.com/api/icons?perline=15&i=googlebigquery)]([#](#))
 
 ---
 
