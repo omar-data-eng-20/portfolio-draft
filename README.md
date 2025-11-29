@@ -18,6 +18,9 @@ that's a draft for testing how things render before adding to the actual portfol
 [![DLT Hub](https://skills.syvixor.com/api/icons?perline=15&i=dlthub)]([#](#))
 [![Google Slides](https://skills.syvixor.com/api/icons?perline=15&i=googleslides)]([#](#))
 
+[![Microsoft 365](https://skills.syvixor.com/api/icons?perline=15&i=microsoft365copilot)]([#](#))
+
+
 ---
 
 
