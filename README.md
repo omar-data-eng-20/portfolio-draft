@@ -46,9 +46,10 @@ that's a draft for testing how things render before adding to the actual portfol
 
 
 ---
+1Kestra.full.logo.dark.png
 
-
-
+[![Kestra Dark Logo](assets/Kestra.full.logo.dark.png)](#)
+[![Kestra Dark Logo](assets/1Kestra.full.logo.dark.png)](#)
 
 
 
