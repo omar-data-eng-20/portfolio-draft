@@ -38,8 +38,14 @@ that's a draft for testing how things render before adding to the actual portfol
 
 ---
 
+[![Kestra Dark Logo](assets/Kestra.full.logo.dark.png)](#)
 
 
+[![Kestra Light Logo](assets/Kestra.full.logo.light.png)](#)
+
+
+
+---
 
 
 
