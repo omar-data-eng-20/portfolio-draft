@@ -8,6 +8,13 @@ that's a draft for testing how things render before adding to the actual portfol
 
 ---
 
+[![ChatGPT](https://skills.syvixor.com/api/icons?perline=1&i=chatgpt)](https://chat.openai.com/)
+[![Google Gemini](https://skills.syvixor.com/api/icons?perline=1&i=googlegemini)](https://gemini.google.com/)
+[![DeepSeek](https://skills.syvixor.com/api/icons?perline=1&i=deepseek)](https://www.deepseek.com/)
+
+
+
+
 [![Power BI](https://skills.syvixor.com/api/icons?perline=15&i=powerbi)]([#](https://app.powerbi.com/home))
 [![Tableau](https://skills.syvixor.com/api/icons?perline=15&i=tableau)](#)
 [![Looker Studio](https://skills.syvixor.com/api/icons?perline=15&i=lookerstudio)](#)
