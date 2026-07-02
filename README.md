@@ -8,7 +8,14 @@ that's a draft for testing how things render before adding to the actual portfol
 
 ---
 
-https://skills.syvixor.com/api/icons?perline=15&i=databricks,airflow,kafka,apachespark
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=databricks,airflow,kafka,apachespark)
+
+---
+
+[![Databricks](https://skills.syvixor.com/api/icons?perline=1&i=databricks)](https://www.databricks.com/)
+[![Apache Airflow](https://skills.syvixor.com/api/icons?perline=1&i=airflow)](https://airflow.apache.org/)
+[![Apache Kafka](https://skills.syvixor.com/api/icons?perline=1&i=kafka)](https://kafka.apache.org/)
+[![Apache Spark](https://skills.syvixor.com/api/icons?perline=1&i=apachespark)](https://spark.apache.org/)
 
 ---
 
