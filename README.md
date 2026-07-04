@@ -14,6 +14,9 @@ that's a draft for testing how things render before adding to the actual portfol
 [![Apache Airflow](https://skills.syvixor.com/api/icons?perline=1&i=airflow)](https://airflow.apache.org/)
 [![Apache Kafka](https://skills.syvixor.com/api/icons?perline=1&i=kafka)](https://kafka.apache.org/)
 [![Apache Spark](https://skills.syvixor.com/api/icons?perline=1&i=apachespark)](https://spark.apache.org/)
+[![Flourish](https://skills.syvixor.com/api/icons?perline=1&i=flourish)](https://flourish.studio/)
+
+
 
 ---
 
