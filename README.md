@@ -6,7 +6,7 @@ hi
 
 that's a draft for testing how things render before adding to the actual portfolio.
 
-
+![File Arrow Down](assets/file-arrow-down-thin-full.svg)
 
 ---
 
