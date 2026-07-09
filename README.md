@@ -12,6 +12,8 @@ that's a draft for testing how things render before adding to the actual portfol
 
 ![Phone](assets/Phone.svg)
 ![File Download](assets/File-Download.svg)
+![File Down](assets/File-Down.svg)
+
 
 ---
 
