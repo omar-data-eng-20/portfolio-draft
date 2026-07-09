@@ -8,6 +8,11 @@ that's a draft for testing how things render before adding to the actual portfol
 
 ![File Arrow Down](assets/file-arrow-down-thin-full.svg)
 
+<br>
+
+![Phone](assets/Phone.svg)
+![File Download](assets/File-Download.svg)
+
 ---
 
 [![Databricks](https://skills.syvixor.com/api/icons?perline=1&i=databricks)](https://www.databricks.com/)
