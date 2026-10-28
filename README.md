@@ -14,6 +14,13 @@ that's a draft for testing how things render before adding to the actual portfol
 ![File Download](assets/File-Download.svg)
 ![File Down](assets/File-Down.svg)
 
+----
+
+https://skills.syvixor.com/api/icons?i=fivetran&perline=12&radius=40
+
+
+[![Fivetran](https://skills.syvixor.com/api/icons?perline=1&i=fivetran)](https://www.fivetran.com/)
+
 
 ---
 
