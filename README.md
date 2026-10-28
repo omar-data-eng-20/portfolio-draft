@@ -27,6 +27,9 @@ https://skills.syvixor.com/api/icons?i=fivetran&perline=12&radius=40
 
 [![n8n](https://skills.syvixor.com/api/icons?perline=1&i=n8n)](https://n8n.io/)
 
+[![Airbyte](https://skills.syvixor.com/api/icons?perline=1&i=airbyte)](https://airbyte.com/)
+
+[![Odoo](https://skills.syvixor.com/api/icons?perline=1&i=odoo)](https://www.odoo.com/)
 
 ---
 
