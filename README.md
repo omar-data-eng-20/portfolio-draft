@@ -21,6 +21,12 @@ https://skills.syvixor.com/api/icons?i=fivetran&perline=12&radius=40
 
 [![Fivetran](https://skills.syvixor.com/api/icons?perline=1&i=fivetran)](https://www.fivetran.com/)
 
+[![Microsoft Fabric](https://skills.syvixor.com/api/icons?perline=1&i=microsoftfabric)](https://www.microsoft.com/en-us/microsoft-fabric/)
+
+[![ClickHouse](https://skills.syvixor.com/api/icons?perline=1&i=clickhouse)](https://clickhouse.com/)
+
+[![n8n](https://skills.syvixor.com/api/icons?perline=1&i=n8n)](https://n8n.io/)
+
 
 ---
 
