@@ -31,6 +31,10 @@ https://skills.syvixor.com/api/icons?i=fivetran&perline=12&radius=40
 
 [![Odoo](https://skills.syvixor.com/api/icons?perline=1&i=odoo)](https://www.odoo.com/)
 
+[![Apache Superset](https://skills.syvixor.com/api/icons?perline=1&i=apachesuperset)](https://superset.apache.org/)
+
+[![RustFS](https://skills.syvixor.com/api/icons?perline=1&i=rustfs)](https://rustfs.com/)
+
 ---
 
 [![Databricks](https://skills.syvixor.com/api/icons?perline=1&i=databricks)](https://www.databricks.com/)
